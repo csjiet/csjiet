@@ -195,10 +195,10 @@
         </h1>
         <section class='items'>
           <ul>
-            <li>Student in ML and data science</li>
+            <!-- <li>A student in ML and data science</li> -->
           </ul>
           <ul>
-            <li>at <a href="https://csjiet.github.io/">csjiet</a></li>
+            <li> <a href="https://csjiet.github.io/">latest updates</a></li>
           </ul>
           <ul>
             <li><a href="mailto:cs.jiet@gmail.com" role="button"><span class='hi'>👋</span></a></li>
