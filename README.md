@@ -2,7 +2,7 @@
 <!-- <h3 align="center">I am passionate about all areas of machine learning and data science</h3> -->
 <div style="width: 100%;">
   <a href="https://github.com/csjiet/csjiet/blame/main/welcome.svg">
-    <img src="welcome.svg" style="width: 70%;" alt="Click to see the source">
+    <img src="welcome.svg" style="width: 90%;" alt="Click to see the source">
   </a>
 </div>
 
