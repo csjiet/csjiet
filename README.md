@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sui Jiet</h1>
 <h3 align="center">I am passionate about all areas of machine learning and data science</h3>
 
-- 📫 Email me at: **csjiet@gmail.com**
-
 <p align="left">
 </p>
 
@@ -13,3 +11,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csjiet&" alt="csjiet" /></p>
 
+- 📫 Email me at: **csjiet@gmail.com**
