@@ -11,4 +11,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csjiet&" alt="csjiet" /></p>
 
-- 📫 Email me at: **csjiet@gmail.com**
+- 📫 Reach me at: **csjiet@gmail.com**
