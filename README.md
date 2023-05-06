@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jiet 👨‍💻 </h1>
+<!-- <h1 align="center">Hi, I'm Jiet 👨‍💻 </h1> -->
 <!-- <h3 align="center">I am passionate about all areas of machine learning and data science</h3> -->
 
 <p align="left">
