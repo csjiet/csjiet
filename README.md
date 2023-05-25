@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csjiet&show_icons=true&locale=en&layout=compact" alt="csjiet" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csjiet&" alt="csjiet" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csjiet&" alt="csjiet" /></p> -->
 
 <!-- - 📫 Email me at: **csjiet@gmail.com** -->
