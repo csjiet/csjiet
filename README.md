@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Jiet 👨‍💻 </h1>
+<!-- 
+<h1 align="center">Hi, I'm Jiet 👨‍💻 </h1> 
 <h3 align="center">I am passionate about all areas of machine learning and data science</h3>
+-->
+
+<p>Hi, I'm Jiet 👨‍💻</p>
+<p>I am passionate about all areas of machine learning and data science</p>
 
 <div style="width: 100%;">
   <!-- <a href="https://github.com/csjiet/csjiet/blame/main/welcome.svg"> -->
