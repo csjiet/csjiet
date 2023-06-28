@@ -4,7 +4,7 @@
 -->
 
 <h2>Hi, I'm Jiet 👨‍💻</h2>
-<p>I am passionate about all areas of machine learning and data science</p>
+<p>I am passionate about all areas of machine learning and data science.</p>
 
 <div style="width: 100%;">
   <!-- <a href="https://github.com/csjiet/csjiet/blame/main/welcome.svg"> -->
