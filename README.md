@@ -3,7 +3,7 @@
 <h3 align="center">I am passionate about all areas of machine learning and data science</h3>
 -->
 
-<h2>Hi, I'm Jiet 👨‍💻</h2>
+<p>Hi, I'm Jiet 👨‍💻</p>
 <p>I am passionate about all areas of machine learning and data science.</p>
 
 <div style="width: 100%;">
